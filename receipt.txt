@@ -1,0 +1,8 @@
+--==[ Checkout ]==--
+(1) Burger - œ9.99
+(2) Mac & cheese - œ7.99
+(3) Red wine - œ4.00
+(4) Red wine - œ4.00
+(5) White wine - œ4.00
+----------
+Total price: œ29.98
